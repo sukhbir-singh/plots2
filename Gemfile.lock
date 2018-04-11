@@ -103,7 +103,11 @@ GEM
     execjs (2.7.0)
     faraday (0.12.2)
       multipart-post (>= 1.2, < 3)
+<<<<<<< Updated upstream
     ffi (1.9.23)
+=======
+    ffi (1.9.18)
+>>>>>>> Stashed changes
     ffi-compiler (1.0.1)
       ffi (>= 1.0.0)
       rake
@@ -111,7 +115,12 @@ GEM
       thor (~> 0.14)
     friendly_id (5.2.3)
       activerecord (>= 4.0.0)
+<<<<<<< Updated upstream
     geocoder (1.4.7)
+=======
+    gemoji (3.0.0)
+    geocoder (1.4.5)
+>>>>>>> Stashed changes
     geokit (1.11.0)
     geokit-rails (2.3.0)
       geokit (~> 1.5)
@@ -214,17 +223,26 @@ GEM
     nifty-generators (0.4.6)
     nokogiri (1.8.2)
       mini_portile2 (~> 2.3.0)
+<<<<<<< Updated upstream
     nokogumbo (1.5.0)
       nokogiri
+=======
+>>>>>>> Stashed changes
     oauth2 (1.4.0)
       faraday (>= 0.8, < 0.13)
       jwt (~> 1.0)
       multi_json (~> 1.3)
       multi_xml (~> 0.5)
       rack (>= 1.2, < 3)
+<<<<<<< Updated upstream
     omniauth (1.8.1)
       hashie (>= 3.4.6, < 3.6.0)
       rack (>= 1.6.2, < 3)
+=======
+    omniauth (1.4.2)
+      hashie (>= 1.2, < 4)
+      rack (>= 1.0, < 3)
+>>>>>>> Stashed changes
     omniauth-facebook (3.0.0)
       omniauth-oauth2 (~> 1.2)
     omniauth-google-oauth2 (0.5.3)
@@ -384,7 +402,11 @@ GEM
       unf_ext
     unf_ext (0.0.7.5)
     unicode-display_width (1.3.0)
+<<<<<<< Updated upstream
     unicode-emoji (1.0.0)
+=======
+    unicode-emoji (1.0.1)
+>>>>>>> Stashed changes
     virtus (1.0.5)
       axiom-types (~> 0.1)
       coercible (~> 1.0)
@@ -415,6 +437,7 @@ DEPENDENCIES
   execjs
   figaro
   friendly_id
+  gemoji
   geocoder
   geokit-rails
   georuby (= 2.0)
@@ -473,7 +496,10 @@ DEPENDENCIES
   turbolinks
   uglifier (>= 1.0.3)
   unicode-emoji
+<<<<<<< Updated upstream
   web-console (~> 2.0)
+=======
+>>>>>>> Stashed changes
   will_paginate (>= 3.0.6)
   will_paginate-bootstrap (>= 1.0.1)
 
